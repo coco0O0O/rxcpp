@@ -228,7 +228,7 @@ auto from(Value0 v0, ValueN... vn)
 
     \tparam Coordination  the type of the scheduler
     \tparam Value0  ...
-    \tparam ValueN  the type of sending value
+    \tparam ValueN  the type of sending values
 
     \param  cn  the scheduler to use for scheduling the items
     \param  v0  ...
